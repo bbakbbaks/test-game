@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/UnityChan/Scenes/textanimator.unity
+  isLoaded: 1
+  isActive: 1
